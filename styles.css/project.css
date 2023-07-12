@@ -102,3 +102,87 @@ header{
     margin-left: 30px;
     width: 400px;
 }
+#sale{
+    display: flex;
+}
+
+
+
+#intagram{
+    display: top;
+}
+
+
+
+#sub{
+    display: flex;
+}
+
+#sale{
+    display: flex;
+    background-color: rgb(238, 228, 229);
+}
+#sale #offfer{
+    float: left;
+    width: 400px;
+    height: 500px;
+    margin-left: 100px;
+    margin-top: 100px;
+    text-align: center;
+}
+
+#sale #offerImage{
+    float: right;
+    width: 400px;
+    height: 500px;
+    margin-left: 100px;
+    margin-top: 50px;
+}
+
+#instagram{
+    margin-bottom: 30px;
+    margin-left: 10px;
+}
+#instagram #content{
+    text-align: center;
+    margin: 30px;
+}
+#instagraPicture {
+    display: flex;
+
+}
+#box{
+    float: right;
+    margin-left: 50px;
+    padding: 100px;
+    height: 200px;
+    width: 100px;
+}
+
+#subscribe{
+    margin-top: 100px;
+    margin-left: 50px;
+    margin-right: 50px;
+    padding: 50px;
+    background-image:url("../flower_asset/Rectangle_9.png") ;
+}
+#subscribe #content{
+    text-align: center;
+}
+
+#email{
+    width: 400px;
+    height: 30px;
+    padding: 5px;
+}
+
+footer{
+    text-align: center;
+    padding: 20px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 50px;
+    height: 200px;
+    background-color: black;
+    color: white;
+}
